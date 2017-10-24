@@ -1,8 +1,8 @@
-Mi forma de trabajar es ir creando y dando estilos sección por sección, así que parto creando en mi codigo html la barra superior con un <nav> agrego los elementos que iran dentro de mi barra de navegación y luego voy a mi archivo CSS y le doy estilos.
+Mi forma de trabajar es ir creando y dando estilos sección por sección, así que parto creando en mi codigo html la barra superior con un nav agrego los elementos que iran dentro de mi barra de navegación y luego voy a mi archivo CSS y le doy estilos.
 Para la sección portafolio, cree un div para contener mi icono de estrella, y luego en mi css cree el codigo para que tuviera lineas a los lados, ese codigo fue usado para todas las estrellas de la pagina, con la modificación del color en caso de que fuera necesario.
 En la sección about cree solo un parrafo el que dividi con la propiedad column, para que se viera acorde a la pagina original.
-En contact me, use la etiqueta <form>, le di estilos con CSS.
-Para terminar en la etiqueta footer cree los <div> necesarios, donde en el de al medio use una lista para ordenar los iconos de las redes sociales.
+En contact me, use la etiqueta form, le di estilos con CSS.
+Para terminar en la etiqueta footer cree los div necesarios, donde en el de al medio use una lista para ordenar los iconos de las redes sociales.
 Finalice con el copyright.
 La pagina no posee el efecto de la barra superior (la que disminuye su tañamo cuando hacemos scroll), ni la animación cuando se pone el cursor sobre las imagenes del portfolio.
 
